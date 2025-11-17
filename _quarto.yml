@@ -1,0 +1,12 @@
+project:
+  type: website
+
+freeze: true
+
+website:
+  title: "Christopher B. Goodman"
+  description: "Christopher B Goodman is an associate professor at Northern Illinois University, researching special districts & preemption and teaching public finance."
+  site-url: https://hello.cgoodman.com
+  repo-url: https://github.com/cbgoodman/cgoodman_landing
+
+  google-analytics: "G-HXWC7RRLSY"
