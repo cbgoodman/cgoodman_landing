@@ -1,6 +1,13 @@
 project:
   type: website
 
+    # Preview settings
+  preview:
+    port: 4444
+    browser: true
+    watch-inputs: true
+    navigate: true
+
 freeze: true
 
 website:
