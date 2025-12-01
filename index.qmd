@@ -6,13 +6,13 @@ template: template.html
 title: "Christopher B. Goodman"
 subtitle: "MPA Director & Professor"
 institute: "Northern Illinois University"
-text-color: "#333333"
-button-color: "#232a3f"
-link-color: "#B6BCCE"
-hover-color: "#e5a15c"
+text-color: "hsl(224.05, 72.24%, 4.17%)"
+button-color: "hsl(226.51 58.74% 21.15%)"
+link-color: "hsl(220 13.57% 91.05%)"
+hover-color: "hsl(217.9 11.92% 64.26%)"
 
 ## BACKGROUND OPTIONS
-primary-color: "#ffffff"
+primary-color: "hsl(0 0% 100%)"
 #secondary-color: "#8892AF"
 #linear-gradient: "to bottom right"
 # background-image: "profile.jpg"
