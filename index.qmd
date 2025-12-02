@@ -6,13 +6,13 @@ template: template.html
 title: "Christopher B. Goodman"
 subtitle: "MPA Director & Professor"
 institute: "Northern Illinois University"
-text-color: "hsl(224.05, 72.24%, 4.17%)"
-button-color: "hsl(226.51 58.74% 21.15%)"
-link-color: "hsl(220 13.57% 91.05%)"
-hover-color: "hsl(217.9 11.92% 64.26%)"
+text-color: "rgba(39, 41, 45)"
+button-color: "rgba(52, 88, 197)"
+link-color: "rgba(248, 249, 250)"
+hover-color: "rgba(222, 225, 229)"
 
 ## BACKGROUND OPTIONS
-primary-color: "hsl(0 0% 100%)"
+primary-color: "rgba(248, 249, 250)"
 #secondary-color: "#8892AF"
 #linear-gradient: "to bottom right"
 # background-image: "profile.jpg"
@@ -24,7 +24,7 @@ mastodon:
   server: "sciences.social"
   user: "&#64;cbgoodman"
 email: "cgoodman&#64;niu.edu"
-bluesky: "cbgoodman.co"
+bluesky: "cbgoodman.co" 
 # tiktok:
 # discord:
 # medium:
